@@ -1,0 +1,4 @@
+**/.vs/**
+**/bin/**
+**/obj/**
+go/docker-credential-acr.exe
