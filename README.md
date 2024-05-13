@@ -18,7 +18,7 @@ eg.
 ```json
 {
 	"auths": {},
-	"credStore": "desktop",	
+	"credsStore": "desktop",	
 	"credHelpers": {
 		"registry.azurecr.io": "acr"
 	},
